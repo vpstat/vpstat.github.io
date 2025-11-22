@@ -2,11 +2,11 @@
     /* Oracle-Inspired Dark Theme */
     --primary-color: #c74634;
     /* Oracle Red */
-    --secondary-color: #1a1a1a;
+    --secondary-color: #2a2a2a;
     /* Dark Gray */
-    --background-color: #0d0d0d;
-    /* Almost Black */
-    --surface-color: #1a1a1a;
+    --background-color: #1e1e1e;
+    /* Softer Dark Background */
+    --surface-color: #2a2a2a;
     /* Dark Surface */
     --text-primary: #ffffff;
     /* White */
@@ -14,7 +14,7 @@
     /* Light Gray */
     --accent-color: #ff0000;
     /* Bright Red */
-    --border-color: #2a2a2a;
+    --border-color: #3a3a3a;
     /* Subtle Border */
 
     /* Spacing & Layout */
@@ -91,7 +91,7 @@ a:hover {
 
 /* Header */
 header {
-    background: rgba(13, 13, 13, 0.95);
+    background: rgba(30, 30, 30, 0.95);
     backdrop-filter: blur(10px);
     position: sticky;
     top: 0;
